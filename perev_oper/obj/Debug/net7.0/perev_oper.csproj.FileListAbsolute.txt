@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\perev_oper\perev_oper\bin\Debug\net7.0\perev_oper.exe
+C:\Users\admin\Desktop\perev_oper\perev_oper\bin\Debug\net7.0\perev_oper.deps.json
+C:\Users\admin\Desktop\perev_oper\perev_oper\bin\Debug\net7.0\perev_oper.runtimeconfig.json
+C:\Users\admin\Desktop\perev_oper\perev_oper\bin\Debug\net7.0\perev_oper.dll
+C:\Users\admin\Desktop\perev_oper\perev_oper\bin\Debug\net7.0\perev_oper.pdb
+C:\Users\admin\Desktop\perev_oper\perev_oper\obj\Debug\net7.0\perev_oper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\perev_oper\perev_oper\obj\Debug\net7.0\perev_oper.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\perev_oper\perev_oper\obj\Debug\net7.0\perev_oper.AssemblyInfo.cs
+C:\Users\admin\Desktop\perev_oper\perev_oper\obj\Debug\net7.0\perev_oper.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\perev_oper\perev_oper\obj\Debug\net7.0\perev_oper.dll
+C:\Users\admin\Desktop\perev_oper\perev_oper\obj\Debug\net7.0\refint\perev_oper.dll
+C:\Users\admin\Desktop\perev_oper\perev_oper\obj\Debug\net7.0\perev_oper.pdb
+C:\Users\admin\Desktop\perev_oper\perev_oper\obj\Debug\net7.0\perev_oper.genruntimeconfig.cache
+C:\Users\admin\Desktop\perev_oper\perev_oper\obj\Debug\net7.0\ref\perev_oper.dll
